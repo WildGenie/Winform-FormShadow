@@ -20,13 +20,9 @@ namespace FormShadowDemo
 		public Form1()
 		{
 			InitializeComponent();
-
 			ShadowDecorator = new FormShadowDecorator(this);
-
 			//启用窗口大小调整
 			ShadowDecorator.EnableResize(true);
-
-
 		}
 
 		protected override void WndProc(ref Message m)
