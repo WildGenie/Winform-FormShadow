@@ -1,6 +1,6 @@
 # WinForm 投影组件 - FormShadow
 
-[[ENGLISH README]](https://github.com/NetDimension/Winform-FormShadow)
+[\[ENGLISH README]\](https://github.com/NetDimension/Winform-FormShadow)
 
 __FormShadow__ 能够快速的为你的WinForm窗口绘制窗体投影，当然不是用添加 __CS_DROPSHADOW__ 样式这种又陋又难看的方式。 
 

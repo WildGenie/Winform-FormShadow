@@ -1,6 +1,6 @@
 # FormShadow for .NET Winform
 
-[[中文版README]](https://github.com/NetDimension/Winform-FormShadow)
+[\[中文版README\]](https://github.com/NetDimension/Winform-FormShadow/wiki/%E5%85%B3%E4%BA%8E%E6%9C%AC%E9%A1%B9%E7%9B%AE)
 
 __FormShadow__ is a tiny library can make __dropshadows__ for .NET winfroms. Of course, it isn't just add __CS_DROPSHADOW__ to window style. 
 
